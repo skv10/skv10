@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Shukla</h1>
 
 <h3 align="center">
-Full Stack Developer | Angular • React • Node.js | Building Scalable Web Apps
+Full Stack Developer | Angular • React • Node.js
 </h3>
 
 ---
