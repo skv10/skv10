@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Shukla</h1>
 
 <h3 align="center">
-Frontend Developer | MERN Stack Enthusiast | Angular & React Developer
+Full Stack Developer | Angular • React • Node.js | Building Scalable Web Apps
 </h3>
 
 ---
@@ -71,14 +71,7 @@ Frontend Developer | MERN Stack Enthusiast | Angular & React Developer
 ### 🔹 Fitness Platform UI
 - Responsive frontend architecture  
 - Scalable React component structure  
-- API-driven UI rendering  
-
-### 🔹 Inspite Of Enthusiasm
-- Worked as a Full Stack Developer  
-- Frontend developed using Angular & React.js  
-- Backend developed using Node.js & Express.js  
-- Focused on responsive UI and optimized first-screen visibility  
-- Ensured important details were visible on first load without scrolling  
+- API-driven UI rendering 
 
 ---
 
