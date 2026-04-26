@@ -66,13 +66,9 @@ Full Stack Developer | Angular • React • Node.js
 - JWT Authentication  
 - Role-Based Access Control (RBAC)  
 - Stripe Payment Integration  
-- Cart and Order Management APIs  
+- Cart and Order Management APIs
 
-### 🔹 Fitness Platform UI
-- Responsive frontend architecture  
-- Scalable React component structure  
-- API-driven UI rendering 
-
+  
 ---
 
 ## 💡 Quote
