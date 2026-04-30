@@ -63,7 +63,7 @@ Full Stack Developer | Angular • React • Node.js
 - REST API integration with MongoDB  
 
 ### 🔹 MERN E-Commerce Backend
-- JWT Authentication  
+- JWT Authentication
 - Role-Based Access Control (RBAC)  
 - Stripe Payment Integration  
 - Cart and Order Management APIs
